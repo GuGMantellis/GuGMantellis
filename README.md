@@ -8,7 +8,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-guedes-mantellis)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-guedes-mantellis-3483722b0/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guguema2011@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuGMantellis)
 ![Profile Views](https://komarev.com/ghpvc/?username=GuGMantellis&style=for-the-badge&color=58A6FF&label=VISITAS)
@@ -82,54 +82,41 @@ class GustavoMantellis:
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🐟 SmartTank — IoT Aquarium Monitor</h3>
-      <p>Telemetria em tempo real para aquários com <strong>ESP32</strong>, sensores de temperatura e pH, dashboard web e persistência em nuvem via <strong>Firebase</strong>.</p>
+    <td width="33%" valign="top">
+      <h3>🐟 SmartTank</h3>
+      <p>Telemetria em tempo real para aquários com <strong>ESP32</strong>, sensores de temperatura, pH, turbidez e dashboard web via <strong>Firebase</strong>.</p>
       <p>
         <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       </p>
       <a href="https://github.com/GuGMantellis/PI5-AquarioVirtual">
         <img src="https://img.shields.io/badge/Ver_Repositório-%23181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
-    <td width="50%" valign="top">
-      <h3>🚜 AgroCloud — Fleet Telemetry na AWS</h3>
-      <p>Monitoramento em tempo real de frotas agrícolas com envio de dados de motor, GPS e imagens para a nuvem usando arquitetura <strong>Serverless na AWS</strong>.</p>
+    <td width="33%" valign="top">
+      <h3>🚜 AgroCloud</h3>
+      <p>Monitoramento de frotas agrícolas com telemetria de motor, GPS e imagens de drone via <strong>AWS DynamoDB + S3</strong>.</p>
       <p>
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900"/>
         <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white"/>
       </p>
       <a href="https://github.com/GuGMantellis/Cloud-Telemetria-de-Tratores-">
         <img src="https://img.shields.io/badge/Ver_Repositório-%23181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📦 Demand Forecast — ML com Prophet</h3>
-      <p>Análise completa do dataset da <strong>Olist (100k+ pedidos)</strong>: limpeza, Curva ABC, sazonalidade e previsão de demanda dos próximos 60 dias com <strong>Meta Prophet</strong>.</p>
+    <td width="33%" valign="top">
+      <h3>📦 Previsão de Demanda</h3>
+      <p>Análise do dataset <strong>Olist (100k+ pedidos)</strong>: Curva ABC, sazonalidade e forecast dos próximos 60 dias com <strong>Meta Prophet</strong>.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Prophet-FF6F00?style=flat-square&logo=meta&logoColor=white"/>
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
       </p>
-      <a href="https://github.com/GuGMantellis/Otimizacao-Estoque-Olist">
+      <a href="https://github.com/GuGMantellis/otimizacao-estoque-olist">
         <img src="https://img.shields.io/badge/Ver_Repositório-%23181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📡 Em desenvolvimento...</h3>
-      <p>Sempre trabalhando em algo novo. Fique de olho no perfil! 👀</p>
-      <br/>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Em_Construção-yellow?style=flat-square"/>
-      </p>
     </td>
   </tr>
 </table>
@@ -173,7 +160,7 @@ class GustavoMantellis:
 
 *"Transformando dados do campo em inteligência de negócios."* 🌿📊
 
-[![LinkedIn](https://img.shields.io/badge/Conectar_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-guedes-mantellis)
+[![LinkedIn](https://img.shields.io/badge/Conectar_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-guedes-mantellis-3483722b0/)
 [![Gmail](https://img.shields.io/badge/Enviar_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guguema2011@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
