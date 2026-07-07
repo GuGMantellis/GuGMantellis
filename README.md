@@ -19,7 +19,7 @@
 
 ## 🧑‍💻 Sobre Mim
 
-python
+```python
 class GustavoMantellis:
     def __init__(self):
         self.nome       = "Gustavo Guedes Mantellis"
@@ -35,6 +35,9 @@ class GustavoMantellis:
             "projetos"   : ["SmartTank IoT", "AgroCloud Telemetria", "Previsão de Demanda ML"],
             "open_to"    : True  # Aberto a oportunidades! 🚀
         }
+```
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -125,6 +128,7 @@ class GustavoMantellis:
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuGMantellis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+&nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuGMantellis&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 </div>
