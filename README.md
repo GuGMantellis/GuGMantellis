@@ -22,7 +22,7 @@
 ```python
 class GustavoMantellis:
     def __init__(self):
-        self.nome       = "Gustavo Guedes Mantssssellis"
+        self.nome       = "Gustavo Guedes Mantellis"
         self.curso      = "Tecnologia em Big Data no Agronegócio — FATEC Bebedouro (3º ano)"
         self.background = "4,5 anos em Gestão de Qualidade e Processos industriais"
         self.foco       = ["Análise de Dados", "IoT", "Cloud Computing", "BI"]
