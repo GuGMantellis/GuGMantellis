@@ -121,25 +121,7 @@ class GustavoMantellis:
   </tr>
 </table>
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuGMantellis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuGMantellis&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
-
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GuGMantellis&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=-1" alt="trophies"/>
-</div>
-
----
 
 ## 🌱 Atualmente Aprendendo
 
