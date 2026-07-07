@@ -134,11 +134,11 @@ class GustavoMantellis:
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=GuGMantellis&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuGMantellis&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="streak stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GuGMantellis&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=GuGMantellis&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=-1" alt="trophies"/>
 </div>
 
 ---
