@@ -19,7 +19,7 @@
 
 ## 🧑‍💻 Sobre Mim
 
-```python
+python
 class GustavoMantellis:
     def __init__(self):
         self.nome       = "Gustavo Guedes Mantellis"
@@ -35,9 +35,6 @@ class GustavoMantellis:
             "projetos"   : ["SmartTank IoT", "AgroCloud Telemetria", "Previsão de Demanda ML"],
             "open_to"    : True  # Aberto a oportunidades! 🚀
         }
-```
-
----
 
 ## 🛠️ Tech Stack
 
